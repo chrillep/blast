@@ -17,7 +17,7 @@
         "prettier:php": "prettier --write -- \"./src/**/*.php\""
     },
     "devDependencies": {
-        "@prettier/plugin-php": "^0.18.8",
+        "@prettier/plugin-php": "^0.25.0",
         "eslint": "^8.18.0",
         "eslint-config-prettier": "^8.5.0",
         "eslint-plugin-prettier": "^4.2.1",
